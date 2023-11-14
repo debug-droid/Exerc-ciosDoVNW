@@ -1,0 +1,1 @@
+# Repositório destinado aos exercícios de Java do Vai na Web.
