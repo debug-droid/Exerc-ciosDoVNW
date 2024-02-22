@@ -35,3 +35,4 @@ selecionar as opções.
 * Visualização de todas as contas
 * Buscar uma conta pelo número dela
 
+![Diagrama UML do Banco](./VnwBankUml.png)
